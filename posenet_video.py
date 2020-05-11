@@ -2,6 +2,7 @@
 Shih-Yao (Mike) Lin
 Date: 2020-05-11
 Email: mike.lin@ieee.org
+Some materials are contributed by https://github.com/ggsonic/posenet-tflite
 '''
 import math
 import time

@@ -1,4 +1,4 @@
-# tflite_posenet for video
+# A live demo of pose estimation with tflite
 
 # Installation
 ```
